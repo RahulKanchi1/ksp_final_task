@@ -1,0 +1,41 @@
+body { 
+    background-color: rgb(119, 220, 195);
+}
+h1 { 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: red;
+     border: 3px  solid rgb(230, 12, 197);
+     padding-left:  200px;
+     padding-right: 200px;
+     background-color: yellowgreen;
+}
+.pa{ 
+    margin-left: 50px;
+  
+
+} 
+th{ 
+    border: 7px solid rgb(240, 9, 20) ;
+} 
+.p1{ 
+ 
+    background-color: rgb(213, 211, 211);
+    height: 220px;
+    width: 220px;
+
+} 
+table{
+   border: 4px solid black;
+   height: 504px;
+   width: 300px;
+} 
+td{ 
+    border: 7px solid rgb(232, 228, 26) ;
+} 
+.post{ 
+ 
+    position: absolute;
+    top: 100px;
+    left: 400px;
+}
+

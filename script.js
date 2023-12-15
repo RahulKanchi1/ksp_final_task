@@ -1,0 +1,1 @@
+alert ( ' WELCOME TO FAST--BREAKFAST---- ONLINE----SERVICES ')
